@@ -1,0 +1,9 @@
+.menu-item{
+    font-size: 15px;
+}
+.menu-item:hover{
+    color: black;
+}
+.social-icon:hover{
+    color: navy !important;
+}
